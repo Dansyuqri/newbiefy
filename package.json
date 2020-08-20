@@ -5,7 +5,8 @@
   "description": "TypeScript template action",
   "main": "src/main.js",
   "scripts": {
-    "package": "ncc build --source-map"
+    "package": "ncc build --source-map",
+    "all": "npm run package"
   },
   "repository": {
     "type": "git",
