@@ -1,11 +1,13 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: Newbiefy
+description: 'Make your repository beginner friendly by removing everything and putting a hello world file in its place'
+author: 'Muhammad Syuqri'
 inputs:
-  milliseconds: # change this
+  github-token:
     required: true
-    description: 'input description here'
-    default: 'default value if applicable'
+    description: 'github token via env var'
+branding:
+  icon: 'power'
+  color: 'green'
 runs:
   using: 'node12'
   main: 'dist/index.js'
