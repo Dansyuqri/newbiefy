@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://dev.to" alt="dev.to">
+    <img src="https://img.shields.io/badge/dev.to-hackathon-blue" />
+  </a>
+  <a href="https://github.com/Dansyuqri/newbiefy/actions?query=workflow%3Abuild-test" alt="workflow build-test">
+    <img src="https://github.com/Dansyuqri/newbiefy/workflows/build-test/badge.svg" />
+  </a>
+  <a href="https://github.com/Dansyuqri/newbiefy/blob/main/LICENSE" alt="license">
+    <img src="https://img.shields.io/badge/license-MIT-blue" />
+  </a>
+</p>
+
 # Newbiefy
 The Action you never knew you needed.
 
