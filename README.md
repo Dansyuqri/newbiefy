@@ -9,7 +9,7 @@ Why not
 
 ## Usage
 ```yml
-- uses: dansyuqri/newbiefy@v1
+- uses: dansyuqri/newbiefy@latest
   with:
     github-token: ${{ secrets.GITHUB_TOKEN }}
 ```
