@@ -26,6 +26,6 @@
   "devDependencies": {
     "@vercel/ncc": "^0.24.1",
     "eslint": "^7.16.0",
-    "js-yaml": "^3.14.0"
+    "js-yaml": "^3.14.1"
   }
 }
